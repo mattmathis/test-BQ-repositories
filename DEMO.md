@@ -1,3 +1,3 @@
 # This is a Demo
 
-But it sode not really do much 
+But it does not really do much of anything.
